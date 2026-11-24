@@ -1,0 +1,8 @@
+{
+  "name": "The Ivory Table",
+  "description": "An Experience Beyond Dining — A fictional luxury fine-dining restaurant concept website designed by SA Crown Web Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
